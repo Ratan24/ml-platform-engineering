@@ -1,2 +1,8 @@
 myvenv
-myvenv2
+k8s-*.yaml
+.venv/
+mlruns/
+mlartifacts/
+guide.html
+.ipynb_checkpoints/
+mlflow/column_list.pkl
